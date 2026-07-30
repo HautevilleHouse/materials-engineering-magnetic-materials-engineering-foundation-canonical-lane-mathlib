@@ -1,0 +1,10 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace MaterialsEngineeringMagneticMaterialsEngineeringFoundationCanonicalLaneLean
+
+def magneticAdmissibleObject (A : AdmissibleClass) : Prop :=
+  A.endpointSatisfied ∨ A.remainderRecorded
+
+end MaterialsEngineeringMagneticMaterialsEngineeringFoundationCanonicalLaneLean
+end HautevilleHouse
